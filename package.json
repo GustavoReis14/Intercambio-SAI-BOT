@@ -4,7 +4,7 @@
   "description": "Bot to get news about exchanges opportunities from UFSM page and send to me.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "Gustavo da Silva Reis",
   "license": "ISC",
