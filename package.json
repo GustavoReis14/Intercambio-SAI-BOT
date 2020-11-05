@@ -1,0 +1,18 @@
+{
+  "name": "sai",
+  "version": "1.0.0",
+  "description": "Bot to get news about exchanges opportunities from UFSM page and send to me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gustavo da Silva Reis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.14"
+  }
+}
